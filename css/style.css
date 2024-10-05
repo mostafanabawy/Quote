@@ -1,0 +1,18 @@
+button {
+    color: white !important;
+    background-color: blue !important;
+    width: 20%;
+    height: 70px;
+    border-color: black !important;
+}
+button:active{
+    background-color: green !important;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+p{
+    font-size: 35px;
+}
